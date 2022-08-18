@@ -2,6 +2,6 @@
 
 Welcome to Project Wombat
 
-![Wombat](wombat.jpg)
+![Wombat](wombat.jpeg)
 
 Wombats are short-legged, muscular quadrupedal marsupials that are native to Australia.
